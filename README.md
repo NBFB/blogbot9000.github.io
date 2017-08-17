@@ -5,6 +5,41 @@ mixpanel.init("46a31511ae63c16229fd7a4e56a26201");</script><!-- end Mixpanel -->
 
 # blogbot9000.github.io
 
+Everyone is an expert as something. Think of topics you love most , spend the most time thinking about, and makes you happiest, you are an expert in those areas. In this project we are going to put your expertise to good use with some the most cutting edge tools and technologies available.
+
+In this project, you will be creating your very own **BlogBot**. A **BlogBot **is a **blog application**, created using **ChatBots.**
+That's a lot of terminology stuffed into one sentence so let's break it down:
+
+_Blog_: A **blog** is a digital space that get's frequently updated with small entries known as “**posts”. **A blog usually has a **theme**, such as music, art, a cause, etc.., which tie the **posts** together. **Posts** are often organized under **topics, **helping users find specific content types faster**.**
+
+_Application aka App_**: **An **application**, or **app**, is a complete and self contained piece of software. An application is a complete digital experience in a thoughtfully designed package.
+
+Example Apps:
+
+* Websites
+* Smartphone “Apps”
+* Video Games
+
+_Chatbots:_ A **chatbot **is an **application** uses text or speech for interaction. This project delivers content, **posts**, to users, via Messenger text.
+
+Example Chatbots:
+
+* Apple's Siri
+* Amazon's Alexa
+* Microsoft's Cortana
+
+
+Example Blogs: 
+
+* Bandcamp (https://bandcamp.com/): A music blog
+* Colossal (http://www.thisiscolossal.com/): An art, design, and visual culture blog.
+* Design Milk (http://design-milk.com/): A website dedicated to modern art and design.
+* Tumblr #lowpoly (https://www.tumblr.com/tagged/low-poly) : A collection of **low poly **art.
+* ILMVisualFX (https://www.youtube.com/user/ILMVisualFX): Computer graphics and special effects used in movies.
+* Twitter
+
+Sounds like a lot? **Don't sweat it**, we are going to guide you step by step to making your own unique **BlogBot** from scratch in under an hour.
+
 ## [Introduction: Meet BlogBot 9000](#)
 ## [Research: Play with ChatBots](#)
 ## [Design: Brainstorming BlogBot](#)
