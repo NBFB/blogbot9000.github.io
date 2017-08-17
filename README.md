@@ -7,10 +7,9 @@ mixpanel.init("46a31511ae63c16229fd7a4e56a26201");</script><!-- end Mixpanel -->
 
 Everyone is an expert as something. Think of topics you love most , spend the most time thinking about, and makes you happiest, you are an expert in those areas. In this project we are going to put your expertise to good use with some the most cutting edge tools and technologies available.
 
-In this project, you will be creating your very own **BlogBot**. A **BlogBot **is a **blog application**, created using **ChatBots.**
-That's a lot of terminology stuffed into one sentence so let's break it down:
+In this project, you will be creating your very own **BlogBot**. A **BlogBot** is a **blog application**, created using **ChatBots.** That's a lot of terminology stuffed into one sentence so let's break it down:
 
-_Blog_: A **blog** is a digital space that get's frequently updated with small entries known as “**posts”. **A blog usually has a **theme**, such as music, art, a cause, etc.., which tie the **posts** together. **Posts** are often organized under **topics, **helping users find specific content types faster**.**
+__Blog__: A **blog** is a digital space that get's frequently updated with small entries known as “**posts”. **A blog usually has a **theme**, such as music, art, a cause, etc.., which tie the **posts** together. **Posts** are often organized under **topics, **helping users find specific content types faster**.**
 
 _Application aka App_**: **An **application**, or **app**, is a complete and self contained piece of software. An application is a complete digital experience in a thoughtfully designed package.
 
